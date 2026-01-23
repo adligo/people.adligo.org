@@ -13,7 +13,7 @@ If you want to search this directory simply download it and use Spotlight, Eclip
 
 ### Step One
 
-Fork this (https://github.com/adligo/people.adligo.org) repository;
+Fork [https://github.com/adligo/people.adligo.org](https://github.com/adligo/people.adligo.org) repository;
 
 ### Step Two
 
